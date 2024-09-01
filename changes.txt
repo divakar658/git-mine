@@ -1,4 +1,8 @@
 i am reating this file in feature 1 branch but after merging it will 
 appear in main branch
+<<<<<<< HEAD
 
 hey hello happy independence day
+=======
+today is sunday i am present in feature1 branch
+>>>>>>> feature1
