@@ -1,0 +1,3 @@
+i am reating this file in feature 1 branch but after merging it will 
+appear in main branch
+today is sunday i am present in feature1 branch
